@@ -1,0 +1,395 @@
+.addressbar p {
+    margin-bottom: 0px;
+}
+
+.navbar {
+    margin-right: 30px;
+}
+
+.navbar ul li a {
+    font-size: 20px;
+    margin-right: 10px;
+}
+
+.navbar ul li a:hover {
+    color: red;
+}
+
+.navbar {
+    margin-right: 30px;
+}
+
+.navbar .btn {
+    font-size: 21px;
+    color: rgb(77, 77, 77);
+}
+
+.navbar .btn:hover {
+    color: red;
+}
+
+.main-banner {
+    background: url(../images/home-banner.jpg);
+    height: 500px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+.banner-content {
+    text-align: center;
+    padding-top: 80px;
+}
+
+.banner-content h1 {
+    font-size: 50px;
+    color: white
+}
+
+.banner-content p {
+    color: orange;
+    font-size: 20px;
+}
+
+.service-heading h3 {
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.service-heading p {
+    font-size: 10px;
+    padding-top: 5px;
+}
+
+.service-heading i {
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+.service-heading i:hover {
+    color: red;
+}
+
+.services {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.services p {
+    text-align: justify;
+}
+
+
+.info-banner {
+    background: url("../images/info-banner.jpg")no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+    text-align: center;
+}
+
+.info-content {
+    padding-top: 200px;
+    color: white;
+    font-size: 40px;
+}
+
+.our-partner {
+    height: 300px;
+}
+
+.our-partner h2 {
+    text-align: center;
+}
+
+footer {
+    background: rgb(33, 33, 33);
+    height: 50px;
+    padding-top: 10px;
+}
+
+footer ul li {
+    display: inline;
+    margin-right: 20px;
+    margin-bottom: 0px;
+}
+
+footer a {
+    text-decoration: none;
+    color: rgb(158, 146, 146);
+}
+
+footer a:hover {
+    color: white;
+}
+
+.copyright {
+    text-align: center;
+    background: rgb(204, 196, 196);
+    padding: 5px 0px;
+}
+
+.copyright p {
+    margin-bottom: 0px;
+}
+
+.copyright span {
+    color: rgb(247, 10, 10);
+}
+
+
+.about-banner {
+    background: url(../images/about-banner.png);
+    height: 120px;
+}
+
+.about-heading h1 {
+    font-size: 30px;
+    color: rgb(98, 242, 237);
+    padding-top: 25px;
+    padding-left: 80px;
+}
+
+.about-list {
+    font-size: 14px;
+    float: right;
+}
+
+.about-list ul li {
+    display: inline;
+    margin-right: 15px;
+
+}
+
+.about-list ul li a {
+    text-decoration: none;
+    color: grey;
+}
+
+.about-list ul li a:hover {
+    color: white;
+}
+
+.about-us {
+    height: 400px;
+}
+
+.about-us p {
+    margin-left: 70px;
+    margin-top: 30px;
+    text-align: justify;
+}
+
+.carousel {
+    margin-top: 20px;
+}
+
+
+.contact-banner {
+    background: url(../images/contact-banner.jpg) center;
+    height: 130px;
+}
+
+.contact-heading h1 {
+    font-size: 30px;
+    color: rgb(98, 242, 237);
+    padding-top: 25px;
+    padding-left: 80px;
+}
+
+.contact-heading h2 {
+    font-size: 16px;
+    color: rgb(98, 242, 237);
+    padding-left: 80px;
+}
+
+.contact-list {
+    font-size: 14px;
+    float: right;
+}
+
+.contact-list ul li {
+    display: inline;
+    margin-right: 15px;
+
+}
+
+.contact-list ul li a {
+    text-decoration: none;
+    color: grey;
+}
+
+.contact-list ul li a:hover {
+    color: white;
+}
+
+
+.contact-us {
+    height: auto;
+}
+
+.contact-us h3 {
+    font-size: 20px;
+    margin-top: 60px;
+    margin-left: 50px;
+}
+
+.contact-us p {
+    font-size: 15px;
+    margin-left: 50px;
+}
+
+.contact-us ul li {
+    font-size: 15px;
+    margin-left: 50px;
+}
+
+.contact-us form {
+    font-size: 15px;
+    margin-left: 50px;
+}
+
+.contact-us input[type=text] {
+    height: 30px;
+    border-radius: 0%;
+}
+
+.contact-us input[type=email] {
+    height: 30px;
+    border-radius: 0%;
+}
+
+
+
+.services-banner {
+    background: url(../images/services-banner.jpg);
+    height: 130px;
+}
+
+.Screening {
+    height: auto;
+    width: auto;
+}
+
+.Screening h2 {
+    text-align: center;
+    padding-top: 50px;
+    font-size: 40px;
+}
+
+.container2 {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.Screening p {
+    text-align: center;
+    font-size: 18px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: 15px 180px 15px 180px;
+}
+
+
+.gallery-banner {
+    background: url(../images/gallery-banner.jpg) center;
+    height: 130px;
+}
+
+.gallery-heading h2 {
+    font-size: 40px;
+    color: white;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.gallery h3 {
+    font-size: 30px;
+    text-align: center;
+    padding: 50px 0px;
+}
+
+.gallery p {
+    font-size: 20px;
+    text-align: center;
+}
+
+.gallery-banner .about-list {
+    margin-right: 80px;
+}
+
+.gallery .gallery-image {
+    position: relative;
+}
+
+.gallery .overlay {
+    position: absolute;
+    bottom: 0px;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    top: 0px;
+    padding-top: 80px;
+    color: white;
+    opacity: 0;
+}
+
+.gallery .gallery-image:hover .overlay {
+    opacity: 1;
+}
+
+.gallery-photo:hover .gallery-text {
+    display: none;
+}
+
+@media only screen and (min-width: 280px) and (max-width: 768px) {
+
+    .nav-item .btn {
+        padding-left: 0px;
+    }
+
+    .services {
+        padding-top: 10px;
+    }
+
+    .info-content {
+        padding-top: 55px;
+        font-size: 30px;
+    }
+
+    .info-banner {
+        height: 300px;
+    }
+
+    .our-partner .item img {
+        height: 180px;
+    }
+
+    footer {
+        margin-top: 30px;
+        height: 70px;
+    }
+
+    .about-us p {
+        margin-left: 0px;
+    }
+
+    .about-us {
+        height: 800px;
+    }
+
+    .gallery-banner .about-list {
+        margin-right: 20px;
+    }
+
+    .gallery .gallery-image {
+        margin-top: 10px;
+    }
+
+    .Screening p {
+        margin: 0px;
+    }   
+
+    .Screening .container2 {
+        margin: 0px !important;
+    }
+}
